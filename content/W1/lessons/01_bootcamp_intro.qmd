@@ -90,14 +90,14 @@ It is mandatory to follow this example:
 
 ::: {.incremental}
 - **Execises**:
-    1. `"C1 M2 Ex1: init"` (1st exercise)
-    2. `"C1 M2 Ex1: q1"`   (question 1 solved)
-    2. `"C1 M2 Ex1: q2"`
-    2. `"C1 M2 Ex2: init"` (started 2nd exercise)
+    1. `C1 M2 Ex1: init` (1st exercise)
+    2. `C1 M2 Ex1: q1`   (question 1 solved)
+    2. `C1 M2 Ex1: q2`
+    2. `C1 M2 Ex2: init` (started 2nd exercise)
 - **Projects**:
-    1. `"C1 Project: init"`
-    2. `"C1 Project: step 1. univariate analysis"`
-    3. `"C1 Project: step 2. pairplots"`
+    1. `C1 Project: init`
+    2. `C1 Project: step 1. univariate analysis`
+    3. `C1 Project: step 2. pairplots`
 ::: 
 
 ## Frequent one-to-one check-ins
